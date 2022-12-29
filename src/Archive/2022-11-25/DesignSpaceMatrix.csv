@@ -1,0 +1,6 @@
+,Terrain,Orientation,NumberOfFloors,FloorHeight,Fassade,RasterLength-X,RasterLength-Y,Arm-Latitudinal-NumberOfSegments,Arm-Longitudinal-NumberOfSegments,BaseBody-Inside-Latditudinal-NumberOfSegments,Courtyard_SegmentCount_RasterLength-Y,Has_Courtyard-Roof,Shading,EnergyStandard,HVAC-System,ServiceHotWater,BuildingVintage
+0,Country,45,3,2.8,Vertical-Windows,2.5,3.5,4,4,4,11.5,False,Low-SHGC-Value,Passive,ASHPBaseboard,Gas_WaterHeater,2007
+1,Suburbs,90,10,3.22,Horizontal-Windows,3.0,2.0,5,3,2,7.0,True,External-Shading,Passive,BoilerBaseboard,HeatPump_WaterHeater,2013
+2,Urban,180,8,3.65,Horizontal-Windows,2.0,4.0,3,5,4,13.0,True,External-Shading,NZEB,BoilerBaseboard,Electric_WaterHeater,2004
+3,Suburbs,135,1,4.08,Ribbon-Windows,4.0,2.5,4,4,2,8.5,False,Low-SHGC-Value,GEG,DHWBaseboard,Electric_TanklessHeater,pre_1980
+4,City,0,6,4.5,Ribbon-Windows,3.5,3.0,4,4,3,10.0,False,External-Shading,GEG,DHWBaseboard,Gas_TanklessHeater,2019

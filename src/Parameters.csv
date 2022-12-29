@@ -1,3 +1,0 @@
-Terrain,Orientation,NumberOfFloors,FloorHeight,Fassade,RasterLength-X,RasterLength-Y,Arm-Latitudinal-NumberOfSegments,Arm-Longitudinal-NumberOfSegments,BaseBody-Inside-Latditudinal-NumberOfSegments,Courtyard_SegmentCount_RasterLength-Y,Has_Courtyard-Roof,Shading,EnergyStandard,HVAC-System_Template
-1,0,1,2.8,0,2,2,3,3,2,7,0,0,0,2
-4,180,10,4.5,2,4,4,5,5,4,13,1,1,2,4
