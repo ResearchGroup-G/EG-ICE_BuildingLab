@@ -1,0 +1,10 @@
+﻿Simulation,Terrain,Orientation,NumberOfFloors,FloorHeight,Shading,EnergyStandard,HVAC-System,ServiceHotWater,Open Office: Heating Setpoint,Open Office: Cooling Setpoint,Open Office: ACH,Open Office: PPA,Meeting: Heating Setpoint,Meeting: Cooling Setpoint,Meeting: ACH,Meeting: PPA,Volume [m³],Area [m²],Construction Area [%],Window to Wall Ratio North [%],Window to Wall Ratio East [%],Window to Wall Ratio South [%],Window to Wall Ratio West [%],HVAC-System Capacity [kW],Baseboard Capacity Sum [kW],EUI [kWh/m²a],EUI Heating [kWh/m²a],EUI Electricity [kWh]
+,0,12.5,4,3.48,0,0,0,3,22,25,4,0.15,22,25,5,0.35,6807,1956,6,50,45,34,23,,,,,
+,0,12.5,4,3.48,0,1,0,3,22,25,4,0.15,22,25,5,0.35,6807,1956,6,50,45,34,23,,,,,
+,0,12.5,4,3.48,0,2,0,3,22,25,4,0.15,22,25,5,0.35,6807,1956,6,50,45,34,23,,,,,
+,0,12.5,4,3.48,0,0,1,3,22,25,4,0.15,22,25,5,0.35,6807,1956,6,50,45,34,23,,,,,
+,0,12.5,4,3.48,0,1,1,3,22,25,4,0.15,22,25,5,0.35,6807,1956,6,50,45,34,23,,,,,
+,0,12.5,4,3.48,0,2,1,3,22,25,4,0.15,22,25,5,0.35,6807,1956,6,50,45,34,23,,,,,
+,0,12.5,4,3.48,0,0,2,3,22,25,4,0.15,22,25,5,0.35,6807,1956,6,50,45,34,23,,,,,
+,0,12.5,4,3.48,0,1,2,3,22,25,4,0.15,22,25,5,0.35,6807,1956,6,50,45,34,23,,,,,
+,0,12.5,4,3.48,0,2,2,3,22,25,4,0.15,22,25,5,0.35,6807,1956,6,50,45,34,23,,,,,
